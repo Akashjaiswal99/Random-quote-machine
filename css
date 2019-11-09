@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="D:\python program\aj.css">
+<script src="D:\sublime\aj.js"></script>
+    <title> Random Quote Machine </title>
+  </head>
+  <body id="body">
+    <div id="quote-box">
+      <div id="text"> 
+        <div id="ql"><i class="fa fa-quote-left"></i></div>
+        <div class="default"> I didn’t fail the test. I just found 100 ways to do it wrong.</div>
+      </div>
+      <div id="author">
+        <div class="Default">- Leonardo da Vinci</div>
+      </div>
+      <button id="new-quote" onclick="newQuote()">New quote
+      </button>
+    </div>
+    <div id="footer">By- Akash jaiswal</div>
+  </body>
+  </html>
